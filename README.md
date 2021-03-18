@@ -1,1 +1,1 @@
-# amazing-searcher-recipes
+# Amazing Searcher Recipes
